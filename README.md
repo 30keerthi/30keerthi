@@ -1,13 +1,13 @@
 
 <h1 align="center">Hello, This is Keerthi 👋🏻</h1>
-<h3 align="center">A Progress-focused and passionate learner in Data Science</h3>
+<h3 align="center">A Progress-focused and passionate learner </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/30keerthi/30keerthi/assets/108986810/99cd8efe-ed93-4dfe-a36b-351082717d3e">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=30keerthi&label=Profile%20views&color=0e75b6&style=flat" alt="30keerthi" /> </p>
 
-- 🖥️ I’m currently learning **Deep Learning, AI, LLM**
+- 🖥️ I’m currently learning **Deep Learning, LLM**
 
-- 👨‍💻 All of my Data Science projects are available at [https://github.com/30keerthi/Data-Science-Projects](https://github.com/30keerthi/Data-Science-Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/30keerthi/Data-Science-Projects](https://github.com/30keerthi/Data-Science-Projects)
 
 - 💬 Ask me about **Machine Learning**
 
